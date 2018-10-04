@@ -8,5 +8,5 @@ def roll
 end
 
 def roll
-rand(0..6)
+rand(1..6)
 end
